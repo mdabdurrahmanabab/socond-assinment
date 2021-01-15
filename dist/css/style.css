@@ -1,0 +1,137 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+body{
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+}
+/* ========header section start =========== */
+.header_section{
+      background-color:#fdf2e8 ;
+
+}
+
+.sub_header img {
+    width: 100%;
+    padding-top: 3em;
+    padding-bottom: 30px;
+}
+.oreng234 {
+      font-size: 38px;
+      color:#d69d23;
+      font-weight: bold;
+      line-height: 2em;
+}
+.sub_header_h3{
+      display: block;
+      color: #4F516B;
+}
+.spacial_button {
+      background:#2d30e7;
+      text-decoration: none;
+      padding: 10px 20px;
+      color: #ffffff;
+      border-radius:.5em;
+      display: inline-block;
+      margin-top: 10px;
+}
+.centered{
+      padding-top: 8em;
+      padding-left: 3em;
+      line-height: 2em;
+      padding-bottom: 3em;
+}
+/* =========header section end======== */
+.main_section{
+      margin-top: 20px;
+      padding-top: 20px;
+}
+.main_section{
+      font-weight: bold;
+      color: #414141;
+      padding-bottom: 20px;
+}
+.main_section h3, .main-h2{
+      font-weight: bold;
+      color: #4F516B;
+}
+.flotin234{
+      float: left;
+      padding-left: 10px;
+}
+.button-floating{
+      float: right;
+      margin-right: 20px;
+      margin-bottom: 20px;
+}
+
+.formal_shoes{
+      margin-top: 5em;
+      margin-bottom: 3em;
+      overflow: hidden;
+}
+.shopping img{
+      width: 60%;
+}
+.card-horizontal-img img{
+      width: 100%;
+      margin-top: 5em;
+}
+.form-section{
+      margin-top: 30px;
+      margin-bottom: 30px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+}
+/* =========main section start======== */
+
+
+/* =========main section end======== */
+/* =========footer section start======== */
+/* =========footer section end======== */
+
+
+
+
+
+
+
+
+
+/* bootstarp controling css started */
+.bg-light {
+      background-color: #fdf2e8!important;
+  }
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.5rem;
+}
+.card-img, .card-img-top {
+      background: #F1F1F1;
+      border-radius: 2em;
+  }
+  .card {
+      border: 0;
+      border-radius:2em;
+  }
+  .casual-shoes{
+        margin: 20px 0;
+  }
+  .shadow-sm {
+      margin: 1em;
+  }
+  .navbar-light .navbar-nav .nav-link {
+      color: rgb(0, 0, 0,.5);
+      font-size: 20px;
+      font-weight: bold;
+  }
+  .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+      color: rgb(0, 0, 0, .9);
+      font-size: 20px;
+      font-weight: bold;
+  }
+  /* bootstarp controling css end */
+
+
